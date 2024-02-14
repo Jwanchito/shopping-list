@@ -71,6 +71,15 @@ header h1 {
   cursor: pointer;
 }
 
+.btn-update-edit {
+  background-color: #228b22;
+  color: #fff;
+  border: none;
+  border-radius: 18px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
 .btn:hover {
   background-color: #444;
 }
